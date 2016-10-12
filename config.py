@@ -1,0 +1,10 @@
+diccionario = {"telam":{"ultimas": "http://www.telam.com.ar/rss2/ultimasnoticias.xml",
+         "politica": "http://www.telam.com.ar/rss2/politica.xml",
+         "sociedad": "http://www.telam.com.ar/rss2/sociedad.xml",
+         "economia": "http://www.telam.com.ar/rss2/economia.xml",
+         "mundo": "http://www.telam.com.ar/rss2/mundo.xml"},
+"clarin":{"ultimas": "http://www.clarin.com/rss/lo-ultimo/",
+          "politica":"http://www.clarin.com/rss/politica/",
+          "sociedad":"http://www.clarin.com/rss/sociedad/",
+          "economia":"http://www.clarin.com/rss/ieco/",
+          "mundo": "http://www.clarin.com/rss/mundo/"}}
